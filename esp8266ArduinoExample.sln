@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "espClient", "espClient\espClient.vcxproj", "{F44A0635-7C5E-4BE2-99D3-D3736D29F52B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "espMQTTtest", "espMQTTtest\espMQTTtest.vcxproj", "{812085F2-40C5-43C6-9C65-41BAA954DACF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "espSerialEvent", "espSerialEvent\espSerialEvent.vcxproj", "{E2F13921-22DC-49E3-90AF-16D00E2421BA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "espServer", "espServer\espServer.vcxproj", "{E5714546-08B6-4B33-9334-D43133729AE6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "espTaskBlink", "espTaskBlink\espTaskBlink.vcxproj", "{C3E1D94B-C711-4965-8E51-63824B318B56}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "espWiFiScan", "espWiFiScan\espWiFiScan.vcxproj", "{E6A46CF5-3E8F-4487-A4BC-110513338D68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F44A0635-7C5E-4BE2-99D3-D3736D29F52B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F44A0635-7C5E-4BE2-99D3-D3736D29F52B}.Debug|Win32.Build.0 = Debug|Win32
+		{F44A0635-7C5E-4BE2-99D3-D3736D29F52B}.Release|Win32.ActiveCfg = Release|Win32
+		{F44A0635-7C5E-4BE2-99D3-D3736D29F52B}.Release|Win32.Build.0 = Release|Win32
+		{812085F2-40C5-43C6-9C65-41BAA954DACF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{812085F2-40C5-43C6-9C65-41BAA954DACF}.Debug|Win32.Build.0 = Debug|Win32
+		{812085F2-40C5-43C6-9C65-41BAA954DACF}.Release|Win32.ActiveCfg = Release|Win32
+		{812085F2-40C5-43C6-9C65-41BAA954DACF}.Release|Win32.Build.0 = Release|Win32
+		{E2F13921-22DC-49E3-90AF-16D00E2421BA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E2F13921-22DC-49E3-90AF-16D00E2421BA}.Debug|Win32.Build.0 = Debug|Win32
+		{E2F13921-22DC-49E3-90AF-16D00E2421BA}.Release|Win32.ActiveCfg = Release|Win32
+		{E2F13921-22DC-49E3-90AF-16D00E2421BA}.Release|Win32.Build.0 = Release|Win32
+		{E5714546-08B6-4B33-9334-D43133729AE6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E5714546-08B6-4B33-9334-D43133729AE6}.Debug|Win32.Build.0 = Debug|Win32
+		{E5714546-08B6-4B33-9334-D43133729AE6}.Release|Win32.ActiveCfg = Release|Win32
+		{E5714546-08B6-4B33-9334-D43133729AE6}.Release|Win32.Build.0 = Release|Win32
+		{C3E1D94B-C711-4965-8E51-63824B318B56}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C3E1D94B-C711-4965-8E51-63824B318B56}.Debug|Win32.Build.0 = Debug|Win32
+		{C3E1D94B-C711-4965-8E51-63824B318B56}.Release|Win32.ActiveCfg = Release|Win32
+		{C3E1D94B-C711-4965-8E51-63824B318B56}.Release|Win32.Build.0 = Release|Win32
+		{E6A46CF5-3E8F-4487-A4BC-110513338D68}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E6A46CF5-3E8F-4487-A4BC-110513338D68}.Debug|Win32.Build.0 = Debug|Win32
+		{E6A46CF5-3E8F-4487-A4BC-110513338D68}.Release|Win32.ActiveCfg = Release|Win32
+		{E6A46CF5-3E8F-4487-A4BC-110513338D68}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
