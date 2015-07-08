@@ -21,5 +21,8 @@
     <ClInclude Include="Visual Micro\.espTaskBlink.vsarduino.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="taskBlinkLed.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
