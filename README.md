@@ -25,6 +25,7 @@ Tools :
 * espServer :Ok.
 * espClient :Ok.
 * espTaskBlink:Ok.
+* espDeepSleep:Ok.
 
 ## Reference
 - [ESP8266WiFi Library](https://github.com/esp8266/Arduino)
