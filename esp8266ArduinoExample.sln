@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+VisualStudioVersion = 12.0.40629.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "espClient", "espClient\espClient.vcxproj", "{F44A0635-7C5E-4BE2-99D3-D3736D29F52B}"
 EndProject
@@ -21,6 +21,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "espDeepSleep", "espDeepSleep\espDeepSleep.vcxproj", "{DC0324FB-52FF-45EE-9A14-6EEFD460B3C8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "esp18TFT_SPI", "esp18TFT_SPI\esp18TFT_SPI.vcxproj", "{7AB3B73A-2EC7-4B50-9A4C-8BD935675E92}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -56,6 +58,10 @@ Global
 		{DC0324FB-52FF-45EE-9A14-6EEFD460B3C8}.Debug|Win32.Build.0 = Debug|Win32
 		{DC0324FB-52FF-45EE-9A14-6EEFD460B3C8}.Release|Win32.ActiveCfg = Release|Win32
 		{DC0324FB-52FF-45EE-9A14-6EEFD460B3C8}.Release|Win32.Build.0 = Release|Win32
+		{7AB3B73A-2EC7-4B50-9A4C-8BD935675E92}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7AB3B73A-2EC7-4B50-9A4C-8BD935675E92}.Debug|Win32.Build.0 = Debug|Win32
+		{7AB3B73A-2EC7-4B50-9A4C-8BD935675E92}.Release|Win32.ActiveCfg = Release|Win32
+		{7AB3B73A-2EC7-4B50-9A4C-8BD935675E92}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

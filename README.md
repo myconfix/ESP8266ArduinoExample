@@ -26,6 +26,7 @@ Tools :
 * espClient :Ok.
 * espTaskBlink:Ok.
 * espDeepSleep:Ok.
+* esp18TFT_SPI:Ok.
 
 ## Reference
 - [ESP8266WiFi Library](https://github.com/esp8266/Arduino)
@@ -34,7 +35,7 @@ Tools :
 - [Arduino IDE 1.6.4](https://www.arduino.cc/en/Main/Software)
 - [Microsoft Visual Studio](https://www.visualstudio.com/en-us/products/visual-studio-community-vs.aspx)
 - [MQTT Library](https://github.com/Imroy/pubsubclient)
-
+- [TFT 1.8" SPI Module Library](http://)
 ## Credits
 
 [www.myconfix.com](http://www.myconfix.com)
